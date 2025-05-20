@@ -1,5 +1,7 @@
 # LaraSpeed
 with Laravel speed Increase coding speed
+ !! More features will be added soon !!
+
 
 ## Setup And Installation
 
