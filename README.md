@@ -68,7 +68,7 @@ If you selected 5 ->
 ```
 you successful 
 
-## add module to service laravel
+## add service to project laravel
 ```
     [*] Wellcome To add service to project Laravel [*]
  |-----------------------Tips--------------------------|
