@@ -22,8 +22,8 @@ def devolper():
     os.system('cls')
     print(Fore.GREEN+"""
 author -> ali shojaee
-telegram -> @alishojaee90
-email -> alishojaee@gmail.com
+telegram -> @alishojaee80
+site -> alishojae.ir
 [!] Help develop this package
         """)
     print(Fore.LIGHTBLACK_EX+' Plase enter back to home ...')
